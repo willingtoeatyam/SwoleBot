@@ -1,0 +1,26 @@
+{
+  "name": "SwoleBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willingtoeatyam/SwoleBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willingtoeatyam/SwoleBot/issues"
+  },
+  "homepage": "https://github.com/willingtoeatyam/SwoleBot#readme",
+  "dependencies": {
+    "telegraf": "^4.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
